@@ -1,0 +1,8 @@
+<resources>
+
+    <style name="Theme.LifeHackQuiz" parent="Theme.MaterialComponents.DayNight.NoActionBar">
+        <item name="android:windowLightStatusBar">true</item>
+        <item name="android:colorAccent">@color/purple_500</item>
+    </style>
+
+</resources>
