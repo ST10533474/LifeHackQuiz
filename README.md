@@ -21,23 +21,23 @@ Technologies Used
 ## 📸 Screenshots
 
 ### Main Screen
-![Main](Screenshot 2026-05-03 130422.png)
-![Main](Screenshot 2026-05-03 130510.png)
+![Main](main1.png)
+![Main](main2.png)
 
 ### Quiz Screen
-![Quiz](Screenshot 2026-05-03 130534.png)
+![Quiz](quiz.png)
 
 ### Feedback
-![Feedback](Screenshot 2026-05-03 130556.png)
-![Feedback](Screenshot 2026-05-03 130614.png)
-![Feedback](Screenshot 2026-05-03 130647.png)
+![Feedback](feedback1.png)
+![Feedback](feedback2.png)
+![Feedback](feedback3.png)
 
 ### Score Screen
-![Score](Screenshot 2026-05-03 131702.png)
+![Score](score.png)
 
 ### Review Screen
-![Review](Screenshot 2026-05-03 131717.png)
-![Review](Screenshot 2026-05-03 131733.png)
+![Review](review1.png)
+![Review](review2.png)
 
 
 How to Run
