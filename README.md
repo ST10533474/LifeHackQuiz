@@ -22,6 +22,10 @@ Technologies Used
 
 ### Main Screen
 ![Main](main1.png)
+<p align="center">
+  <img src="main1.png" width="300"/>
+  <img src="main2.png" width="300"/>
+</p>
 
 ![Main](main2.png)
 
