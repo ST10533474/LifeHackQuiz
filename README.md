@@ -57,7 +57,7 @@ How to Run
 
 ## Demo Video
 
-[Click here to watch the demo](https://drive.google.com/file/d/1XKw00dRtYjorwGYScCEzUP92ZW0p9Boc/view?usp=drive_link)
+[Click here to watch the demo](https://drive.google.com/file/d/1tnpwZFgCiL2YWE-EnwRWySgVHTxLVkqf/view?usp=sharing).
 
 
 Author
