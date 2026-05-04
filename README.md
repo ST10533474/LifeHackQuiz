@@ -35,7 +35,6 @@ Technologies Used
 <p align="center">
   <img src="feedback1.png" width="250"/>
   <img src="feedback2.png" width="250"/>
-  <img src="feedback3.png" width="250"/>
 </p>
 
 ### Score Screen
@@ -47,6 +46,7 @@ Technologies Used
 <p align="center">
   <img src="review1.png" width="250"/>
   <img src="review2.png" width="250"/>
+  <img src="review3.png" width="250"/>
 </p>
 
 
