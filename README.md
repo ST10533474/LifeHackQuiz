@@ -21,31 +21,33 @@ Technologies Used
 ## Screenshots
 
 ### Main Screen
-![Main](main1.png)
 <p align="center">
   <img src="main1.png" width="300"/>
   <img src="main2.png" width="300"/>
 </p>
 
-![Main](main2.png)
-
 ### Quiz Screen
-![Quiz](quiz.png)
+<p align="center">
+  <img src="quiz.png" width="300"/>
+</p>
 
 ### Feedback
-![Feedback](feedback1.png)
-
-![Feedback](feedback2.png)
-
-![Feedback](feedback3.png)
+<p align="center">
+  <img src="feedback1.png" width="250"/>
+  <img src="feedback2.png" width="250"/>
+  <img src="feedback3.png" width="250"/>
+</p>
 
 ### Score Screen
-![Score](score.png)
+<p align="center">
+  <img src="score.png" width="250"/>
+</p>
 
 ### Review Screen
-![Review](review1.png)
-
-![Review](review2.png)
+<p align="center">
+  <img src="review1.png" width="250"/>
+  <img src="review2.png" width="250"/>
+</p>
 
 
 How to Run
