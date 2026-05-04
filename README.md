@@ -24,7 +24,7 @@ Screenshots
 Main Screen
 ![Main](Screenshot 2026-05-03 130422.png)
 ![Main](Screenshot 2026-05-03 130510.png)
-      
+
 Quiz Screen
 ![Quiz](Screenshot 2026-05-03 130534.png)
 
