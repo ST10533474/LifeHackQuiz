@@ -53,7 +53,11 @@ Technologies Used
 How to Run
 1. Open the project in Android Studio
 2. Connect an emulator or device
-3. Click Run 
+3. Click Run
+
+## Demo Video
+
+[Click here to watch the demo](https://drive.google.com/file/d/1XKw00dRtYjorwGYScCEzUP92ZW0p9Boc/view?usp=drive_link)
 
 
 Author
