@@ -22,23 +22,23 @@ Technologies Used
 Screenshots
 
 Main Screen
-[Main](Screenshot 2026-05-03 130422.png)
-[Main](Screenshot 2026-05-03 130510.png)
+![Main](Screenshot 2026-05-03 130422.png)
+![Main](Screenshot 2026-05-03 130510.png)
       
 Quiz Screen
-[Quiz](Screenshot 2026-05-03 130534.png)
+![Quiz](Screenshot 2026-05-03 130534.png)
 
 Feedback
-[Feedback](Screenshot 2026-05-03 130556.png)
-[Feedback](Screenshot 2026-05-03 130614.png)
-[Feedback](Screenshot 2026-05-03 130647.png)
+![Feedback](Screenshot 2026-05-03 130556.png)
+![Feedback](Screenshot 2026-05-03 130614.png)
+![Feedback](Screenshot 2026-05-03 130647.png)
 
 Score Screen
-[Score](Screenshot 2026-05-03 131702.png)
+![Score](Screenshot 2026-05-03 131702.png)
 
 Review Screen
-[Review](Screenshot 2026-05-03 131717.png)
-[Review](Screenshot 2026-05-03 131733.png)
+![Review](Screenshot 2026-05-03 131717.png)
+![Review](Screenshot 2026-05-03 131733.png)
 
 How to Run
 1. Open the project in Android Studio
