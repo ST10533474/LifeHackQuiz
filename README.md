@@ -23,6 +23,7 @@ Screenshots
 
 Main Screen
 [Main](Screenshot 2026-05-03 130422.png)
+
 [Main](Screenshot 2026-05-03 130510.png)
       
 Quiz Screen
@@ -30,7 +31,9 @@ Quiz Screen
 
 Feedback
 [Feedback](Screenshot 2026-05-03 130556.png)
+
 [Feedback](Screenshot 2026-05-03 130614.png)
+
 [Feedback](Screenshot 2026-05-03 130647.png)
 
 Score Screen
@@ -38,6 +41,7 @@ Score Screen
 
 Review Screen
 [Review](Screenshot 2026-05-03 131717.png)
+
 [Review](Screenshot 2026-05-03 131733.png)
 
 How to Run
