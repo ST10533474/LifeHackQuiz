@@ -22,6 +22,7 @@ Technologies Used
 
 ### Main Screen
 ![Main](main1.png)
+
 ![Main](main2.png)
 
 ### Quiz Screen
@@ -29,7 +30,9 @@ Technologies Used
 
 ### Feedback
 ![Feedback](feedback1.png)
+
 ![Feedback](feedback2.png)
+
 ![Feedback](feedback3.png)
 
 ### Score Screen
@@ -37,6 +40,7 @@ Technologies Used
 
 ### Review Screen
 ![Review](review1.png)
+
 ![Review](review2.png)
 
 
