@@ -18,7 +18,7 @@ Technologies Used
 - Android Studio
 - XML Layouts
 
-## 📸 Screenshots
+## Screenshots
 
 ### Main Screen
 ![Main](main1.png)
